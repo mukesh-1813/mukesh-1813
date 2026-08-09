@@ -2,93 +2,127 @@
 
 ### B.Tech Data Science Student | Backend Developer | DSA & AI/ML Enthusiast
 
-I'm a Data Science student who enjoys building practical applications and solving problems with code.
+I'm a Data Science student who enjoys building practical applications, solving problems, and learning through real-world projects.
 
-- 🔭 Currently working on **Django & Django REST Framework projects**
-- 🌱 Currently learning **Data Science, Machine Learning, and AI**
-- 💻 Practicing **DSA in Java** and solving problems on LeetCode
-- 🚀 Building **Prokishan – a Farmer Assistant platform** using Django, REST APIs, and AI
-- 🧠 Interested in **Backend Development, AI/ML, Data Science, and System Design**
-- 🎨 I also enjoy **Graphic Design and Creative Projects**
-- 🤝 Open to collaborating on **interesting software, AI, and open-source projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mukesh-budi-760220320/)** | **[Email](mukehsbudi18@gmail.com)**
+* 🔭 Currently working on **Django & Django REST Framework projects**
+* 🌱 Currently learning **Data Science, Machine Learning, and AI**
+* 💻 Practicing **DSA in Java** and solving problems on **LeetCode**
+* 🚀 Building **Prokishan – a Farmer Assistant platform** using Django, REST APIs, and AI
+* 🧠 Interested in **Backend Development, AI/ML, Data Science, and System Design**
+* 🎨 I also enjoy **Graphic Design and Creative Projects**
+* 🤝 Open to collaborating on **software, AI, and open-source projects**
+* 📫 **[LinkedIn](https://www.linkedin.com/in/mukesh-budi-760220320/)** · **[Email](mailto:mukehsbudi18@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages
 
-### Backend & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-### Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### ⚙️ Backend & Web
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
+</p>
+
+### 📊 Data Science & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+### 🔧 Tools & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,sqlite,postman,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌾 Prokishan
-A farmer-focused platform providing:
-- Mandi price information
-- Weather information and alerts
-- Crop recommendations
-- Government scheme information
-- Plant disease detection
-- Direct farmer-to-customer selling
 
-**Tech:** Django, Django REST Framework, PostgreSQL, APIs, AI/ML
+A farmer-focused platform designed to provide useful agricultural services in one place.
+
+**Features:**
+
+* 🌱 Crop recommendations
+* 📈 Mandi price information
+* 🌦️ Weather information and alerts
+* 🏛️ Government scheme information
+* 🦠 Plant disease detection
+* 🛒 Direct farmer-to-customer selling
+
+**Tech:** Django · Django REST Framework · PostgreSQL · REST APIs · AI/ML
+
+---
 
 ### 💻 CodeVerse
-A coding platform project featuring:
-- User authentication
-- Coding problems
-- Code submissions
-- Contests
-- Leaderboards
-- Analytics
 
-**Tech:** Django REST Framework, JWT, React, APIs
+A coding platform designed for developers and students to practice programming.
+
+**Features:**
+
+* 🔐 User authentication
+* 🧩 Coding problems
+* 🚀 Code submissions
+* 🏆 Contests
+* 📊 Leaderboards
+* 📈 User analytics
+
+**Tech:** Django REST Framework · JWT · React · APIs
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh-1813&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukesh-1813&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-1813&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-1813&layout=compact&theme=tokyonight)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mukesh-1813&theme=tokyonight&hide_border=true&fire=FF7A00&ring=FF7A00&currStreakLabel=FF7A00" />
+</p>
 
 ---
 
 ## 📈 Current Focus
-## 📊 GitHub Stats
 
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh-1813&show_icons=true&theme=tokyonight)
+| Area                | Focus                                    |
+| ------------------- | ---------------------------------------- |
+| 🧠 DSA              | Solving problems in Java                 |
+| ⚙️ Django / DRF     | Building backend applications            |
+| 📊 Data Science     | Learning & analyzing real-world datasets |
+| 🤖 Machine Learning | Building practical ML models             |
+| 🏗️ System Design   | Learning scalable backend architecture   |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-1813&layout=compact&theme=tokyonight)
+---
 
-## 🔥 GitHub Streak
+## 💡 Areas of Interest
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mukesh-1813&theme=tokyonight)](https://git.io/streak-stats)
+* 🌐 **Backend Engineering** — Building scalable REST APIs and web applications
+* 🤖 **Artificial Intelligence** — Exploring practical AI/ML applications
+* 📊 **Data Science** — Extracting insights from real-world data
+* 🧩 **Problem Solving** — DSA, algorithms, and competitive programming
+* 🌱 **AgriTech** — Using technology to solve real-world agricultural problems
+* 🎨 **Creative Technology** — Combining development with design
 
-```text
-DSA              ███████████████░░░  Learning
-Django/DRF       █████████████████░░  Building
-Data Science     ████████████░░░░░░░  Learning
-Machine Learning ████████░░░░░░░░░░░  Learning
-System Design    ██████░░░░░░░░░░░░░  Exploring
+---
 
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into working projects and learning by building.
+
+<p align="center">
+  ⭐ If you find my projects useful, feel free to star them!
+</p>
