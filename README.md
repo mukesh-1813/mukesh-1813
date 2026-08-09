@@ -14,6 +14,17 @@ I'm a Data Science student who enjoys building practical applications, solving p
 * 📫 **[LinkedIn](https://www.linkedin.com/in/mukesh-budi-760220320/)** · **[Email](mailto:mukehsbudi18@gmail.com)**
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/mukesh-budi-760220320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mukeshbudi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:mukehsbudi18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
