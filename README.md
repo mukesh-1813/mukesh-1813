@@ -75,6 +75,15 @@ A coding platform project featuring:
 ---
 
 ## 📈 Current Focus
+## 📊 GitHub Stats
+
+![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh-1813&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-1813&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mukesh-1813&theme=tokyonight)](https://git.io/streak-stats)
 
 ```text
 DSA              ███████████████░░░  Learning
@@ -82,3 +91,4 @@ Django/DRF       █████████████████░░  Buil
 Data Science     ████████████░░░░░░░  Learning
 Machine Learning ████████░░░░░░░░░░░  Learning
 System Design    ██████░░░░░░░░░░░░░  Exploring
+
