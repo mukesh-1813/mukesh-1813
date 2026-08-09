@@ -11,7 +11,7 @@ I'm a Data Science student who enjoys building practical applications and solvin
 - 🧠 Interested in **Backend Development, AI/ML, Data Science, and System Design**
 - 🎨 I also enjoy **Graphic Design and Creative Projects**
 - 🤝 Open to collaborating on **interesting software, AI, and open-source projects**
-- 📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL)** | **[Email](YOUR_EMAIL)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mukesh-budi-760220320/)** | **[Email](mukehsbudi18@gmail.com)**
 
 ---
 
