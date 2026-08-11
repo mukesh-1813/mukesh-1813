@@ -24,6 +24,9 @@ I'm a Data Science student who enjoys building practical applications, solving p
   <a href="mailto:mukehsbudi18@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+   <a href="https://smartinterviews.in/profile/BudiMukesh">
+  <img src="https://img.shields.io/badge/SmartInterviews-Profile-blue?style=flat-square" />
+</a>
 </p>
 
 ## 🛠️ Tech Stack
